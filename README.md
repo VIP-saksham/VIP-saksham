@@ -1,122 +1,110 @@
-## 🚀 Hi, I’m Saksham Swaroop 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saksham%20Swaroop&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20•%20Full-Stack%20Dev%20•%20Automation%20%26%20AI&descAlignY=55&descSize=18" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%F0%9F%9A%80+Building+products+that+actually+ship;%F0%9F%A4%96+Telegram+Bots+%7C+Backends+%7C+AI+%26+Automation;%F0%9F%8E%B5+Music+Bots+with+1-2s+VC+Playback;%E2%9A%A1+Clean+Architecture+%2B+Scalable+Systems" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/VIP-saksham.png" width="140" style="border-radius:50%" alt="Saksham Swaroop"/>
+</div>
+
+---
+
+### 🚀 Hi, I'm **Saksham Swaroop** — *aka* [@VIP-saksham](https://github.com/VIP-saksham) 👋
 
 **Software Engineer | Full-Stack Developer | Backend & Automation | Builder**
 
-I’m a **Software Developer and B.Tech student**, passionate about building **scalable web applications, backend systems, automation tools, and AI-powered solutions**.
+I'm a **Software Developer and B.Tech student**, passionate about building **scalable web
+applications, backend systems, automation tools, and AI-powered solutions**. I enjoy turning
+ideas into real-world products — systems that solve meaningful problems and actually ship 🚢
 
-I enjoy turning ideas into real-world products, exploring new technologies, and building systems that solve meaningful problems.
+* ⚙️ Clean architecture • Backend & API development
+* 📈 Performance & scalability
+* 🤖 AI & automation (self-healing bots with LLM agents!)
+* 🎮 Game dev & creative experiments
 
-I care deeply about:
-
-* Clean architecture
-* Backend & API development
-* Performance & scalability
-* AI & automation
-* Building products that actually ship 🚢
-
----
-
-## 🧠 What I’m Working On
-
-* ⚙️ Full-Stack Web Development (React, JavaScript, Node.js)
-* 🐍 Backend & API Development (Python, Flask, Express.js)
-* 🤖 AI-Powered Applications & Automation
-* 📱 Telegram Bots & Mini Apps
-* ☁️ Cloud Deployment & Real-World Product Building
-* 🚀 Student Innovation & Startup Projects
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923807-b4dcfe5c-e5db-47df-b7ea-31fa2e0f521d.gif" width="380" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8386a.gif" width="380" alt="dev gif"/>
+</div>
 
 ---
 
-## 💬 Ask Me About
+## 🐍 Contribution Snake
 
-* Full-Stack Web Development
-* Python & JavaScript
-* REST APIs & Backend Development
-* React & Modern UI Development
-* Telegram Bots and Automation
-* AI Integration in Web Applications
-* GitHub, Git & Deployment
-* Building Projects from Scratch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIP-saksham/VIP-saksham/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIP-saksham/VIP-saksham/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VIP-saksham/VIP-saksham/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats & Streaks
 
-* 🔗 Portfolio: Coming Soon
-* 💼 LinkedIn: [Saksham Swaroop](https://www.linkedin.com/)
-* 🐙 GitHub: [VIP-saksham](https://github.com/VIP-saksham)
-* 📩 Open to collaboration & meaningful conversations
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VIP-saksham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIP-saksham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top langs"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VIP-saksham&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VIP-saksham&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIP-saksham&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph"/>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frontend & Backend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-### AI & Cloud
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs,fastapi,mongodb,redis,docker,git,linux,nginx,postgres,flask,html,css,tailwind,py,ai&perline=10" alt="Tech stack"/>
+  </a>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### ❄️ FrostLine — Polar Science Portal
+<div align="center">
 
-An innovative platform connecting polar research, scientific knowledge, media, and education in one interactive experience.
+| 🎵 Project | ✨ Highlight |
+|:---:|:---|
+| **[KeyaraMusic](https://github.com/VIP-saksham/KeyaraMusic)** | Telegram music bot — HellAPI engine, **1-2s VC playback**, NVIDIA self-heal agent, 12h auto-restart |
+| **[HellXMusic](https://github.com/VIP-saksham/HellXMusic)** | Advanced music bot for group voice chats — YouTube, Spotify & more |
+| **[StringSessionXD](https://github.com/VIP-saksham/StringSessionXD)** | Session generator bot — force-join, admin panel, sudo system, full test suites |
+| **[BioLink-Protector](https://github.com/VIP-saksham/BioLink-Protector)** | Telegram bio-link protection bot |
+| **[Bomber](https://github.com/VIP-saksham/Bomber)** | Automation tooling |
+| **[CarRacing](https://github.com/VIP-saksham/CarRacing)** • **[CrushMasterGame](https://github.com/VIP-saksham/CrushMasterGame)** | Game experiments 🎮 |
 
-**Tech:** React, Node.js, APIs, AI, Data Visualization
-
-### 🤖 Telegram Automation & Bot Ecosystem
-
-Building Telegram bots, Mini Apps, automation systems, and backend services designed for real-world use cases.
-
-**Tech:** Python, Pyrogram, Telegram API, MongoDB, Flask
-
-### 🌾 AI-Powered Agriculture Innovation
-
-Exploring technology-driven solutions for Indian agriculture, including post-harvest loss prevention, smart storage, and farmer-focused platforms.
-
-**Tech:** AI, Web Development, Backend APIs
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIP-saksham\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIP-saksham\&layout=compact\&theme=tokyonight)
+[![Telegram](https://img.shields.io/badge/Telegram-%40TrueNakshu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TrueNakshu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SakshamSwaroop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SakshamSwaroop)
+[![GitHub](https://img.shields.io/badge/GitHub-VIP--saksham-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIP-saksham)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
----
+</div>
 
-## ⚡ Fun Fact
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VIP-saksham&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
 
-I started my coding journey as a student, exploring different technologies and building projects from scratch.
-
-From Telegram automation and modern web applications to AI-powered startups and innovation challenges — I’m on a journey to become a **world-class software engineer and product builder.**
-
-> “Build something useful. Learn something new. Ship something real.” 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ship%20%E2%80%A2%20Break%20%E2%80%A2%20Fix%20%E2%80%A2%20Repeat&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+</p>
