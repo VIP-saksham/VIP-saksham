@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/rhgnlx.gif" width="100%" alt="Saksham Swaroop" />
+  <img src="profile_header.svg" width="100%" alt="Saksham Swaroop" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://files.catbox.moe/7dy259.gif" width="740" alt="saksham@vps" />
+  <img src="profile_terminal.svg" width="640" alt="saksham@vps" />
 </p>
 
 ---
@@ -27,17 +27,13 @@ ideas into real-world products — systems that solve meaningful problems and ac
 * 🤖 AI & automation — *self-healing bots with LLM agents!*
 * 🎮 Game dev & creative experiments
 
+<p align="center">
+  <img src="profile_statsbar.svg" width="760" alt="stats" />
+</p>
+
 ---
 
-## ⚔️ GitHub Warfare Stats
-
-<div align="center">
-  <img src="https://files.catbox.moe/q1j9yu.gif" width="700" alt="warfare stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIP-saksham&theme=github_dark" alt="profile details"/>
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIP-saksham&theme=github_dark" alt="repos per language"/>
