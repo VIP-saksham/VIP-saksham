@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_header.svg" width="100%" alt="Saksham Swaroop" />
+  <img src="profile_header.svg?v=6" width="100%" alt="Saksham Swaroop" />
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="profile_statsbar.svg" width="760" alt="stats" />
+  <img src="profile_statsbar.svg?v=6" width="760" alt="stats" />
 </p>
 
 ---
