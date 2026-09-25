@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Developer | Backend & Automation | Builder**
 
-I’m a **Software Developer and B.Tech student at Delhi**, passionate about building **scalable web applications, backend systems, automation tools, and AI-powered solutions**.
+I’m a **Software Developer and B.Tech student**, passionate about building **scalable web applications, backend systems, automation tools, and AI-powered solutions**.
 
 I enjoy turning ideas into real-world products, exploring new technologies, and building systems that solve meaningful problems.
 
