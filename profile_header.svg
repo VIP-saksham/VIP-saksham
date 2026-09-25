@@ -1,27 +1,21 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#FF00E5">
-<animate attributeName="stop-color" values="#FF00E5;#00D9FF;#00FFC3;#FF00E5" dur="8s" repeatCount="indefinite"/>
+<linearGradient id="hd" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#238636">
+<animate attributeName="stop-color" values="#238636;#1f6feb;#a371f7;#238636" dur="14s" repeatCount="indefinite"/>
 </stop>
-<stop offset="100%" stop-color="#00D9FF">
-<animate attributeName="stop-color" values="#00D9FF;#00FFC3;#FF00E5;#00D9FF" dur="8s" repeatCount="indefinite"/>
+<stop offset="100%" stop-color="#1f6feb">
+<animate attributeName="stop-color" values="#1f6feb;#a371f7;#238636;#1f6feb" dur="14s" repeatCount="indefinite"/>
 </stop>
 </linearGradient>
-<filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-<feGaussianBlur stdDeviation="8" result="blur"/>
-<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-<path d="M 40 0 L 0 0 0 40" fill="none" stroke="#141420" stroke-width="1"/>
-</pattern>
 </defs>
-<rect width="1200" height="300" fill="#050508"/>
-<rect width="1200" height="300" fill="url(#grid)"/>
-<text x="600" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="2" fill="url(#neon)" filter="url(#glow)">SAKSHAM SWAROOP</text>
-<text x="600" y="185" text-anchor="middle" font-family="'Courier New', monospace" font-size="21" letter-spacing="3" fill="#8be9fd">SOFTWARE ENGINEER × BOT DEVELOPER × AI AUTOMATION</text>
-<rect x="0" y="240" width="1200" height="2" fill="url(#neon)" opacity="0.5">
-<animate attributeName="y" values="215;275;215" dur="7s" repeatCount="indefinite"/>
+<rect width="1200" height="240" fill="#010409"/>
+<path d="M0,190 C200,150 300,210 500,180 C700,150 900,210 1200,170 L1200,240 L0,240 Z" fill="url(#hd)" opacity="0.16">
+<animate attributeName="d" values="M0,190 C200,150 300,210 500,180 C700,150 900,210 1200,170 L1200,240 L0,240 Z; M0,175 C250,205 400,150 600,195 C800,225 1000,155 1200,185 L1200,240 L0,240 Z; M0,190 C200,150 300,210 500,180 C700,150 900,210 1200,170 L1200,240 L0,240 Z" dur="12s" repeatCount="indefinite"/>
+</path>
+<text x="70" y="108" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="#e6edf3">Saksham Swaroop</text>
+<text x="72" y="152" font-family="'Courier New', monospace" font-size="20" fill="#7ee787">$ software engineer · bot developer · ai automation</text>
+<rect x="72" y="172" width="220" height="3" fill="url(#hd)">
+<animate attributeName="width" values="220;560;220" dur="7s" repeatCount="indefinite"/>
 </rect>
-<rect x="0" y="296" width="1200" height="4" fill="url(#neon)"/>
 </svg>

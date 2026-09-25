@@ -1,36 +1,22 @@
-<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<filter id="sglow" x="-30%" y="-30%" width="160%" height="160%">
-<feGaussianBlur stdDeviation="4" result="b"/>
-<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
-</defs>
-<rect width="1200" height="130" fill="#050508"/>
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="110" fill="#010409"/>
 <g font-family="Arial, sans-serif" text-anchor="middle">
 <g transform="translate(160,0)">
-<text y="62" font-size="44" font-weight="800" fill="#FF00E5" filter="url(#sglow)">401
-<animate attributeName="opacity" values="1;0.75;1" dur="2.4s" repeatCount="indefinite"/>
-</text>
-<text y="98" font-size="16" letter-spacing="2" fill="#9999aa">CONTRIBUTIONS</text>
+<text y="56" font-size="40" font-weight="800" fill="#e6edf3">401</text>
+<text y="90" font-size="15" letter-spacing="1.5" fill="#7ee787">CONTRIBUTIONS</text>
 </g>
 <g transform="translate(453,0)">
-<text y="62" font-size="44" font-weight="800" fill="#00D9FF" filter="url(#sglow)">336
-<animate attributeName="opacity" values="1;0.75;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
-</text>
-<text y="98" font-size="16" letter-spacing="2" fill="#9999aa">COMMITS</text>
+<text y="56" font-size="40" font-weight="800" fill="#e6edf3">336</text>
+<text y="90" font-size="15" letter-spacing="1.5" fill="#7ee787">COMMITS</text>
 </g>
 <g transform="translate(746,0)">
-<text y="62" font-size="44" font-weight="800" fill="#00FFC3" filter="url(#sglow)">42
-<animate attributeName="opacity" values="1;0.75;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
-</text>
-<text y="98" font-size="16" letter-spacing="2" fill="#9999aa">REPOS</text>
+<text y="56" font-size="40" font-weight="800" fill="#e6edf3">42</text>
+<text y="90" font-size="15" letter-spacing="1.5" fill="#7ee787">REPOS</text>
 </g>
 <g transform="translate(1039,0)">
-<text y="62" font-size="44" font-weight="800" fill="#FFB300" filter="url(#sglow)">8🔥
-<animate attributeName="opacity" values="1;0.75;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
-</text>
-<text y="98" font-size="16" letter-spacing="2" fill="#9999aa">STREAK</text>
+<text y="56" font-size="40" font-weight="800" fill="#e6edf3">8🔥</text>
+<text y="90" font-size="15" letter-spacing="1.5" fill="#7ee787">STREAK</text>
 </g>
 </g>
-<line x1="300" y1="118" x2="900" y2="118" stroke="#1c1c28" stroke-width="1"/>
+<rect x="0" y="104" width="1200" height="2" fill="#21262d"/>
 </svg>

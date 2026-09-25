@@ -1,0 +1,37 @@
+<svg width="840" height="430" viewBox="0 0 840 430" xmlns="http://www.w3.org/2000/svg">
+<rect width="840" height="430" fill="#010409"/>
+<rect x="20" y="20" width="800" height="390" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<rect x="20" y="20" width="800" height="44" rx="12" fill="#161b22"/>
+<circle cx="48" cy="42" r="6" fill="#ff5f57"/>
+<circle cx="72" cy="42" r="6" fill="#febc2e"/>
+<circle cx="96" cy="42" r="6" fill="#28c840"/>
+<text x="130" y="48" font-family="'Courier New', monospace" font-size="16" fill="#e6edf3">profile.yaml</text>
+<rect x="120" y="58" width="96" height="2" fill="#58a6ff"/>
+<g font-family="'Courier New', monospace" font-size="19">
+<g fill="#6e7681" text-anchor="end">
+<text x="58" y="104">1</text>
+<text x="58" y="134">2</text>
+<text x="58" y="164">3</text>
+<text x="58" y="194">4</text>
+<text x="58" y="224">5</text>
+<text x="58" y="254">6</text>
+<text x="58" y="284">7</text>
+<text x="58" y="314">8</text>
+<text x="58" y="344">9</text>
+<text x="58" y="374">10</text>
+</g>
+<text x="80" y="104"><tspan fill="#8b949e"># ~/saksham/config</tspan></text>
+<text x="80" y="134"><tspan fill="#7ee787">name</tspan><tspan fill="#e6edf3">: </tspan><tspan fill="#a5d6ff">Saksham Swaroop</tspan></text>
+<text x="80" y="164"><tspan fill="#7ee787">role</tspan><tspan fill="#e6edf3">: </tspan><tspan fill="#a5d6ff">Software Engineer</tspan></text>
+<text x="80" y="194"><tspan fill="#7ee787">focus</tspan><tspan fill="#e6edf3">:</tspan></text>
+<text x="80" y="224"><tspan fill="#8b949e">  - </tspan><tspan fill="#a5d6ff">backend systems</tspan></text>
+<text x="80" y="254"><tspan fill="#8b949e">  - </tspan><tspan fill="#a5d6ff">telegram bots</tspan></text>
+<text x="80" y="284"><tspan fill="#8b949e">  - </tspan><tspan fill="#a5d6ff">ai automation</tspan></text>
+<text x="80" y="314"><tspan fill="#7ee787">currently</tspan><tspan fill="#e6edf3">: </tspan><tspan fill="#a5d6ff">building KeyaraMusic</tspan></text>
+<text x="80" y="344"><tspan fill="#7ee787">learning</tspan><tspan fill="#e6edf3">: </tspan><tspan fill="#a5d6ff">system design</tspan></text>
+<text x="80" y="374"><tspan fill="#7ee787">contact</tspan><tspan fill="#e6edf3">: </tspan><tspan fill="#a5d6ff">t.me/TrueNakshu</tspan></text>
+</g>
+<rect x="386" y="360" width="10" height="18" fill="#7ee787">
+<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+</svg>
