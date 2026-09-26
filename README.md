@@ -68,6 +68,20 @@
 
 ---
 
+## 🏆 Achievements
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VIP-saksham?tab=achievements#pull-shark"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark"/><br/><b>Pull Shark</b><br/><sub>merged pull requests</sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VIP-saksham?tab=achievements#yolo"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100" alt="YOLO"/><br/><b>YOLO</b><br/><sub>merged without review</sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VIP-saksham?tab=achievements#quickdraw"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw"/><br/><b>Quickdraw</b><br/><sub>closed in 5 min ⚡</sub></a></td>
+<td align="center" width="25%"><a href="https://github.com/VIP-saksham?tab=achievements#pair-extraordinaire"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire"/><br/><b>Pair Extraordinaire</b><br/><sub>×4 co-authored PRs</sub></a></td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🌐 Find me at
 
 <div align="center">
