@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/followers/VIP-saksham?style=flat-square&label=followers&logo=github" alt="followers"/>
 &nbsp;
   <img src="https://img.shields.io/github/stars/VIP-saksham?affiliations=OWNER&style=flat-square&label=stars&logo=github" alt="stars"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVIP-saksham&query=%24.public_repos&label=repos&style=flat-square&color=3fb950" alt="repos"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVIP-saksham&query=%24.public_gists&label=gists&style=flat-square&color=a371f7" alt="gists"/>
 </div>
 
 <p align="center">
@@ -76,6 +80,16 @@
 <td align="center" width="25%"><a href="https://github.com/VIP-saksham?tab=achievements#yolo"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100" alt="YOLO"/><br/><b>YOLO</b><br/><sub>merged without review</sub></a></td>
 <td align="center" width="25%"><a href="https://github.com/VIP-saksham?tab=achievements#quickdraw"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw"/><br/><b>Quickdraw</b><br/><sub>closed in 5 min ⚡</sub></a></td>
 <td align="center" width="25%"><a href="https://github.com/VIP-saksham?tab=achievements#pair-extraordinaire"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100" alt="Pair Extraordinaire"/><br/><b>Pair Extraordinaire</b><br/><sub>×4 co-authored PRs</sub></a></td>
+</tr>
+</table>
+
+### ✨ On the radar — next unlocks
+<table>
+<tr>
+<td align="center" width="25%" opacity="0.55"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="72" alt="Starstruck"/><br/><sub><b>Starstruck</b> · unlock 16 repo stars ⭐</sub></td>
+<td align="center" width="25%" opacity="0.55"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="72" alt="Galaxy Brain"/><br/><sub><b>Galaxy Brain</b> · top-answer discussions 🧠</sub></td>
+<td align="center" width="25%" opacity="0.55"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="72" alt="Open Sourcerer"/><br/><sub><b>Open Sourcerer</b> · 2 merged community PRs 🔮</sub></td>
+<td align="center" width="25%" opacity="0.55"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="72" alt="Arctic Code Vault"/><br/><sub><b>Arctic Vault</b> · code archived to 2140 ❄️</sub></td>
 </tr>
 </table>
 </div>
