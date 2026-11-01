@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="profile_code.svg" width="620" alt="profile.yaml" />
+  <img src="profile_codee.svg" width="620" alt="profile.yaml" />
 </p>
 
 <p align="center">
