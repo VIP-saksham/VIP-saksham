@@ -64,8 +64,8 @@
 
 | Project | About |
 |:---|:---|
-| 🎧 **[KeyaraMusic](https://github.com/VIP-saksham/KeyaraMusic)** | Telegram music bot — streaming engine with ~1-2s VC playback, LLM self-heal agent, scheduled auto-restarts |
-| 🎵 **[HellXMusic](https://github.com/VIP-saksham/HellXMusic)** | Advanced music bot for group voice chats — YouTube, Spotify & more |
+| 🎧 **[NikoPad](https://github.com/VIP-saksham/NikoPad)** | NikoPad is a specialized developer-focused text and code editor |
+| 🎵 **[M2M](https://github.com/VIP-saksham/m2m)** | Mitti to Market is a full-stack agricultural marketplace for farmers, buyers/processors, FPOs, and administrators. |
 | 🔑 **[StringSessionXD](https://github.com/VIP-saksham/StringSessionXD)** | Telegram session generator — force-join system, admin panel, 136+ tested cases |
 | 🛡️ **[BioLink-Protector](https://github.com/VIP-saksham/BioLink-Protector)** | Telegram bio-link protection bot |
 | 🕹️ **[CarRacing](https://github.com/VIP-saksham/CarRacing)** · **[CrushMasterGame](https://github.com/VIP-saksham/CrushMasterGame)** · **[SpaceWar-1](https://github.com/VIP-saksham/SpaceWar-1)** | Python game experiments |
